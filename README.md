@@ -18,5 +18,5 @@ These are the libraries we are going to use-<br />
 •	pandas<br />
 •	matplotlib<br />
 •	seaborn<br />
-•	scikit learn <br />
+•	scikit-learn <br />
 
