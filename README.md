@@ -14,9 +14,9 @@ In this project, we will use different machine learning models to solve a regres
 <br />
 # Requirements<br />
 These are the libraries we are going to use-<br />
-•	Numpy<br />
-•	Pandas<br />
-•	Matplotlib<br />
-•	Seaborn<br />
-•	Sklearn <br />
+•	numpy<br />
+•	pandas<br />
+•	matplotlib<br />
+•	seaborn<br />
+•	scikit learn <br />
 
