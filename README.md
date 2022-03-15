@@ -6,7 +6,7 @@ In this project, we will use different machine learning models to solve a regres
 •	Imputing Missing Values<br />
 •	Checking correlations<br />
 •	Removing highly correlated features<br />
-•	Feature engineering on categorical variables<br />
+•	Feature engineering<br />
 •	Data Normalization<br />
 •	Train and Test Split<br />
 •	Train the model to fit the dataset<br />
